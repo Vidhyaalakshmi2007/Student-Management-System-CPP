@@ -93,7 +93,7 @@ GRADE: A
 
 ## 👨‍💻 Author
 
-**Your Name**
+**VIDHYAA LAKSHMI S**
 
 ---
 
